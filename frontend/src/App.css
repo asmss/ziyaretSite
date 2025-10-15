@@ -255,6 +255,7 @@ body {
     width: 90%; /* YENİ: Genişlik azaltıldı */
     padding: 16px; /* YENİ: İç boşluk azaltıldı */
     margin-top: -5vh;
+    max-height: 75vh;
   }
   
   /* YENİ: Modal içindeki form elemanları küçültüldü */
